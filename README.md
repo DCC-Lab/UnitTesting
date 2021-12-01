@@ -2,7 +2,7 @@
 
 ## Exercise 1: The Stack
 
-![image-20211130170910111](C:\Users\JLBegin\AppData\Roaming\Typora\typora-user-images\image-20211130170910111.png)
+![image-20211130170910111](assets/stack_representation.jpg)
 
 This repository provides a simple implementation of a stack in Python inside `stack.py`. This stack offers the following behavior: 
 
