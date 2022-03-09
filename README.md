@@ -1,5 +1,12 @@
 # Unit testing
 
+## Exercise 0: Writing your first unit test
+1. Create a new script with a simple function like `mean(data)`. 
+2. Write test functions from scratch to assert expected outcome. 
+3. Import `unittest` and put these test functions inside a test class. 
+
+A solution example is given inside `/solutions/exercise0.py`.
+
 ## Exercise 1: The Stack
 
 ![image-20211130170910111](assets/stack_representation.jpg)

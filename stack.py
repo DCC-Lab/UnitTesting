@@ -6,7 +6,7 @@ class Stack:
         self.elements = []
 
     @property
-    def isEmpty(self) -> bool:
+    def isEmpty(self):
         if len(self.elements) == 0:
             return True
         else:
